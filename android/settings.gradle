@@ -1,0 +1,3 @@
+rootProject.name = 'qwikpixels'
+
+include ':app'
